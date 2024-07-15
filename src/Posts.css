@@ -1,0 +1,12 @@
+/* src/Posts.css */
+.posts {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.posts .card {
+  margin-bottom: 16px;
+}
+
